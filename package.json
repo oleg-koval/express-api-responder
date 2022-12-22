@@ -40,6 +40,6 @@
     "nyc": "^11.4.1"
   },
   "dependencies": {
-    "jsonwebtoken": "^8.1.0"
+    "jsonwebtoken": "^9.0.0"
   }
 }
